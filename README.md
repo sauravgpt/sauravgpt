@@ -32,4 +32,4 @@
 &nbsp; <a href="mailto:sauravgpt34@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [Saurav](https://github.com/https://saurav-portfolio.web.app/)
+⭐️ From [Saura](https://saurav-portfolio.web.app/)
