@@ -3,17 +3,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m a Front End Developer using Flutter Framework.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics from NIT Trichy.
-- ✍️ &nbsp; ⭐⭐ at Codechef (Started CodeChef 1 month ago).
-- ☕ &nbsp; Good Problem Solver
+- 🎓 &nbsp; I've positive attitude towards problem solving.
+- ✍️ &nbsp; ⭐⭐⭐ at Codechef.
+- ☕ &nbsp; I'm a Post Graduate Student at NIT Trichy.
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Dart | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🌐 &nbsp; Android | Flutter
+- 🛢 &nbsp; MySQL | Firebase | NODEJS | MONGODB
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
 
 <br>
 
