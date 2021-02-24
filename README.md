@@ -1,17 +1,16 @@
 <h2> Hey there! I'm Saurav. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m a Front End Developer using Flutter Framework.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I've positive attitude towards problem solving.
+- 🔭 &nbsp; I’m a Front End Developer using <strong>Flutter Framework</strong>.
+- 🎓 &nbsp; I've positive attitude towards <strong>problem solving</strong>.
 - ✍️ &nbsp; ⭐⭐⭐ at Codechef.
-- ☕ &nbsp; I'm a Post Graduate Student at NIT Trichy.
+- 👨‍🎓 &nbsp; I'm a Post Graduate Student at NIT Trichy.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | C++  
+- 💻 &nbsp; Python | Dart | C++
 - 🌐 &nbsp; Android | Flutter
 - 🛢 &nbsp; MySQL | Firebase | NODEJS | MONGODB
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
