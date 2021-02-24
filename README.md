@@ -5,8 +5,8 @@
 
 - 🔭 &nbsp; I’m a Front End Developer using <strong>Flutter Framework</strong>.
 - 🎓 &nbsp; I've positive attitude towards <strong>problem solving</strong>.
-- ✍️ &nbsp; ⭐⭐⭐ at Codechef.
-- 👨‍🎓 &nbsp; I'm a Post Graduate Student at NIT Trichy.
+- ✍️ &nbsp; ⭐⭐⭐ at [Codechef](https://www.codechef.com/users/sauravgpt)..
+- 👨‍🎓 &nbsp; I'm a Post Graduate Student at [NIT Trichy](https://www.nitt.edu/).
 
 <h3>🛠 Tech Stack</h3>
 
