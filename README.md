@@ -29,7 +29,7 @@
 
 [![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=sauravgpt&card_width=500)](https://github.com/sauravgpt/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravgpt&layout=default&card_width=400)](https://github.com/sauravgpt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravgpt&layout=default&card_width=300)](https://github.com/sauravgpt/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
